@@ -22,7 +22,18 @@ It powers authentication, content discovery, premium subscriptions, watchlists, 
 
 ## 📦 Installation & Setup
 
-1. #### Environment Variables:
+1. #### Clone the Repository:
+
+    ```bash
+    git clone https://github.com/rutujashaha786/stream-scene-backend.git
+    cd yourprojectname
+    ```
+2. #### Install Dependencies:
+
+    ```bash
+    npm install (Note: Use node version >=18.20)
+    ```
+3. #### Environment Variables:
     Create .env file in root directory-
 
     ```bash
@@ -35,17 +46,6 @@ It powers authentication, content discovery, premium subscriptions, watchlists, 
     TMDB_KEY = <your_tmdb_api_key>
     ```
 
-2. #### Clone the Repository:
-
-    ```bash
-    git clone https://github.com/rutujashaha786/stream-scene-backend.git
-    cd yourprojectname
-    ```
-3. #### Install Dependencies:
-
-    ```bash
-    npm install (Note: Use node version >=18.20)
-    ```
 4. #### Start the Server:
 
     ```bash
