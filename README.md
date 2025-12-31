@@ -15,11 +15,10 @@ It powers authentication, content discovery, premium subscriptions, watchlists, 
 - **Runtime:** Node.js
 - **Framework:** Express.js
 - **Database:** MongoDB + Mongoose
-- **Payments:** Razorpay
+- **Payments:** Razorpay API
 - **Email Service:** SendGrid (via Nodemailer)
 - **Video Streaming:** Native Node streams
-
-## 
+- **TMDB API**
 
 ## 📦 Installation & Setup
 
